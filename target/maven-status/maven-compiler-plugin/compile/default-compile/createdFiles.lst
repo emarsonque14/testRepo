@@ -1,0 +1,8 @@
+com\springhibernate\service\UserService.class
+com\springhibernate\service\UserServiceImpl.class
+com\springhibernate\entities\Login.class
+com\springhibernate\controllers\RegistrationController.class
+com\springhibernate\dao\UserDaoImpl.class
+com\springhibernate\entities\Users.class
+com\springhibernate\dao\UserDao.class
+com\springhibernate\controllers\LoginController.class
